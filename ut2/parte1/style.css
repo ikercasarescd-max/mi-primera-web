@@ -1,0 +1,50 @@
+h1 {
+  font-family: "Segoe ui"
+}
+h1 {
+  color:#041c3f
+}
+h2 {
+  font-family: "Segoe ui"
+}
+h2 {
+  color:#041c3f
+}
+h3 {
+  font-family: "Segoe ui"
+}
+h3 {
+  color:#041c3f
+}
+p{
+  font-family: "Segoe ui"
+}
+p {
+  color:#041c3f
+}
+header {
+  border-bottom: 2px solid #a5e070
+}
+nav ul {
+background-color:#d6e0ea;
+  border-radius:12px;
+}
+ul {
+  font-family: "Segoe ui"
+}
+th {
+  font-family: "Segoe ui"
+}
+th {
+  color:#041c3f
+}
+a {
+  font-family: "Segoe ui"
+}
+a {
+  color:#017ce9
+}
+img {
+    border-radius: 12px;
+    max-width: 800;
+}
